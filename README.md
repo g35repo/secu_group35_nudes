@@ -1,4 +1,4 @@
-DISCLAIMER: If anything goes wrong with this repository, logging in, or following server errors; contact Jackey
+DISCLAIMER: If anything goes wrong with this repository, logging in, or following server errors; contact Jackey...this will cost a bajer
 
 # PURPUSE
 
