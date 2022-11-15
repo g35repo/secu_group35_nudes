@@ -11,3 +11,9 @@ The application, will fetch a random nude from this site and concatenate their r
 ### Attention
 
 Please do not change these files, David, or we will hunt u down...
+
+## Credz
+
+Picture art by Mads
+Cursed implementation by Jackey
+Supported by Fugmann
