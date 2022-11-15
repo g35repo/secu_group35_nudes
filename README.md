@@ -2,7 +2,7 @@ DISCLAIMER: If anything goes wrong with this repository, logging in, or followin
 
 # PURPUSE
 
-This repo contains the nudes for all members of group 35 (and baltazar), which all new welcomed users on our note taking service will be greeted with.
+This repo contains the nudes for all members of group 35 (and baltazaar), which all new welcomed users on our note taking service will be greeted with.
 
 ## Implementation
 
